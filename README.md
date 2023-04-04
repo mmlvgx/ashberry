@@ -2,7 +2,7 @@
 A tool for searching websites by generating random URLs
 # Easy install
 # Windows
-Install [here](https://github.com/mmlvgx/ashberry/bin/ashberry.exe)
+Install [here](https://github.com/mmlvgx/ashberry/blob/main/bin/ashberry.exe)
 # Install from source
 ## Requirements
 `git` `make` `python3` `python3-pip`
