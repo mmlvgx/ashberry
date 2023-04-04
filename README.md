@@ -1,5 +1,5 @@
 # ashberry
-A tool for searching websites by generating random URLs
+![](assets/monkey.gif) A tool for searching websites by generating random URLs
 # Easy install
 # Windows
 Install [here](https://github.com/mmlvgx/ashberry/blob/main/bin/ashberry.exe)
@@ -15,4 +15,3 @@ Install [here](https://github.com/mmlvgx/ashberry/blob/main/bin/ashberry.exe)
 `cd ashberry`\
 `make setup`\
 `make run`
-![](assets/monkey.gif)
