@@ -15,3 +15,4 @@ Install [here](https://github.com/mmlvgx/ashberry/blob/main/bin/ashberry.exe)
 `cd ashberry`\
 `make setup`\
 `make run`
+![](assets/monkey.gif)
