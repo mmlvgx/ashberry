@@ -1,0 +1,4 @@
+aiohttp
+aiohttp[speedups]
+cchardet
+juneberry
